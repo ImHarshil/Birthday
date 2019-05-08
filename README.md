@@ -1,1 +1,1 @@
-# BirthdayThis prject is made for personel use
+# BirthdayThis project is made for personel use
